@@ -1,10 +1,10 @@
 ---
 title: "First Blog Post"
 categories:
-	- Blog
-tag:
-	- personal
+  - Blog
+tag: personal
 ---
+
 
 This is my first blog post. I'm going to be blogging about my experince hacking and programming. 
 
