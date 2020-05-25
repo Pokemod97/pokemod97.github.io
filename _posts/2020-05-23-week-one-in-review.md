@@ -37,9 +37,7 @@ This where I talk about the development of personal or programming projects. Cur
 This is where I'm talk about my adventures in learning Japanese. I currently working through Genki 1.
 Created Anki cards Thursday. Did drops for kana at least once a day.  I did not work on getting through the actual textbook.
 ### Psychology
-I'm going through the crash course psychology playlist and trying to learn some psychology. 
-
-https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6
+I'm going through the [crash course psychology playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) and trying to learn some psychology. 
 
 Didn't do anything to work through it this week.
 ### Programming/ Hacking
